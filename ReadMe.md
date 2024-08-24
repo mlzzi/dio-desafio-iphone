@@ -17,6 +17,10 @@ No desafio,tive que modelar e diagramar a representação UML do componente iPho
 ### Esquema UML
 ![](./UML.png)
 
+### Link do Desafio
+
+https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo
+
 ### Link
 
 - Solução URL: [Link da Solução](https://github.com/mlzzi/dio-desafio-iphone)
